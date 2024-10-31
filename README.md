@@ -1,2 +1,4 @@
 # ad-olimp
-link to my other project
+
+Проект, который делаю с Мишей, но он не отображается в моих репозиториях
+https://github.com/AD-olimp/ad-olimp.org
